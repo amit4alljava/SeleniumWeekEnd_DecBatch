@@ -1,0 +1,15 @@
+1. Java Basics
+
+Why Java ?
+a) WORA (Write Once Run AnyWhere)
+b) Open Source
+c) Secure
+i) No Pointor Support
+ii) Byte Code Verification Before 
+d) Object oriented Programming
+Class and Objects
+
+********************************************************************
+Java Setup
+
+
