@@ -1,0 +1,14 @@
+1. Factorial
+5 * 4 * 3 * 2 * 1
+
+2. 1 + n Sum
+
+3. Power
+2 ^3 
+
+4. Table of a Number
+5 * 1 = 5
+
+5. Table of 1 to 10 Number
+
+6. Patterns (20)

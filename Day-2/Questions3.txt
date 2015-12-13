@@ -1,0 +1,13 @@
+1. Four Number Greater (Multiple if else , nested if else)
+2. Enter the Marks (English , Hindi , Maths)
+Total Marks
+Percentage
+Grade
+>90 A Grade
+90 to 80 B Grade
+80 to 70 C Grade
+70 to 60 D Grade
+60 to 50 F Grade
+
+
+ 
