@@ -1,0 +1,19 @@
+interface FlatDesign
+{
+  void wallDesign():
+void kitchenDesign();
+void floorDesign();
+}
+
+abstract class CommonFlat implements FlatDesign{
+public void wallDesign(){
+
+}
+abstract void kitchenDesign();
+abstract void floorDesign();
+}
+
+class TwoBHK extends CommonFlat
+{
+
+}
