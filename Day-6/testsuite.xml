@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyTestSuite" verbose="1" parallel="true" thread-count="2"  >
+    <!-- parallel="methods" all the methods will run parallel including the before and after also,
+      executing each test method in a single thread -->
+    <!-- parallel="classes" each test class that is part of the test execution will be executed in its own thread -->
+  <test name="MyTest" >
+    <!--   <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups> -->
+    <classes>
+      <class name="suitedemo.Demo1"/>
+      <class name="suitedemo.Demo2"/>
+      
+    </classes>
+ </test>
+</suite>
